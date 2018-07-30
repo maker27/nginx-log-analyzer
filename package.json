@@ -1,0 +1,21 @@
+{
+  "name": "nginx-log-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze error log files (Nginx)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maker27/nginx-log-analyzer.git"
+  },
+  "keywords": [
+    "nginx",
+    "error",
+    "log",
+    "analyze"
+  ],
+  "author": "E Maker27",
+  "license": "ISC"
+}
